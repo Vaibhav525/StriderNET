@@ -21,7 +21,7 @@ setup(
     long_description_content_type="text/markdown",
     long_description=long_description,
     packages=find_packages(),
-    install_requires=['pytorch', 'torch-geometric'],
+    install_requires=['torch', 'torch-geometric'],
     keywords=['reinforcement learning', 'machine learning', 'optimization', 'rough landscapes', 'atomic'],
     classifiers=[
         "Development Status :: 1 - Planning",
