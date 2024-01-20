@@ -18,13 +18,9 @@ Optimization of atomic structures presents a challenging problem, due to their h
 	-N. M. Anoop Krishnan†, Department of Civil Engineering, Indian Institute of Technology Delhi, Hauz Khas, New Delhi, India 110016 and, Yardi School of Artificial Intelligence, Indian Institute of Technology Delhi, Hauz Khas, New Delhi, India 110016
 
 ## Environment settings
-    python      > 3.7
-    jax         > 0.4.1                 
-    jax-md      > 0.2.24                 
-    jaxlib      > 0.4.1                 
-    flax        > 0.6.3                 
-    jraph       > 0.0.6.dev0            
-    optax       > 0.1.4                 
+    python      	> 3.7
+    pytorch     	> 2.0.0
+    torch-geometric 	> 2.4
 
 **Example Usage**
 
